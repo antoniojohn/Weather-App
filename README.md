@@ -14,6 +14,22 @@
 - JavaScript
 - WeatherAPI (https://www.weatherapi.com)
 
+## How to Use
+
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
+   ```
+2. **Navigate to the Project Directory:**:
+    ```bash
+    cd Weather-App
+    ```
+3. **Get Api Key from [WeatherApi](https://www.weatherapi.com)**
+
+    ```Sign up at WeatherAPI to get your API key.
+    Replace the API Key: Open the script.js file and replace 'YOUR_API_KEY' with your actual API key.   
+4. **Run index.html**
+    **You Have Weather App Ready**
 
 
 
