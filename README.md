@@ -14,6 +14,14 @@
 
 ## How to Use
 
+# Method 1
+ Vist https://antoniojohn.github.io/Weather-App/
+
+# Method 2
+
+Download APK file from Github [Releases](https://github.com/antoniojohn/Weather-App/releases) 
+
+# Method 3
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
